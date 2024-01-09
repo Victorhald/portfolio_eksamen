@@ -17,6 +17,7 @@ img {
 body {
   background-color: #fefee3;
 }
+/*Burger-menu ting*/
 .forside_div {
   display: flex;
   gap: 40px;
@@ -66,21 +67,17 @@ ul.menu {
 .nav-menu.active {
   left: 0;
 }
-
+/**/
 .h1_forside {
   font-family: "Genos", sans-serif;
   margin-top: 20px;
   font-size: 100px;
 }
+/**/
 .h1_forside_small {
   font-family: "Genos", sans-serif;
   margin-top: 100px;
   margin-right: 270px;
-}
-.h1_forside_small_1 {
-  font-family: "Genos", sans-serif;
-  margin-top: 100px;
-  margin-left: 270px;
 }
 
 .logo {
@@ -150,11 +147,6 @@ a {
 .navbar a:hover {
   color: #d68c45;
 }
-/* Rammer Dropdown + dens elementer*/
-
-/* Rammer alt inde i dropdown*/
-
-/* Links inde i dropdown*/
 
 /* Så links i dropdown er block, og derfor vises*/
 .dropdown:hover .dropdown-content {
@@ -173,7 +165,7 @@ footer {
 .grid_2 {
   padding: 15px;
 }
-
+/*Knapstyling*/
 .knap {
   border: 1px solid #d68c45;
   padding: 10px;
